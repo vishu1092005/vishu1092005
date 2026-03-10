@@ -1,5 +1,5 @@
 # 💫 About Me:
-iam vishu sharma<br>🎓 1st Year BCA Student  <br>💻 Learning Programming and Web Development  <br>🚀 Exploring Technology and Open Source
+Iam Vishu Sharma<br>🎓 1st Year BCA Student  <br>💻 Learning Programming and Web Development  <br>🚀 Exploring Technology and Open Source
 
 
 ## 🌐 Socials:
